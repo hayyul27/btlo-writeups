@@ -1,7 +1,7 @@
-## Analisis Phising
+# Analisis Phising
 
 
-# Skenario
+## Skenario
 Seorang pengguna telah menerima email phishing dan meneruskannya ke SOC. Dapatkah Anda menyelidiki email dan lampirannya untuk mengumpulkan artefak yang berguna?
 
 **1. Penerima Utama:**
@@ -49,6 +49,6 @@ Heading ini adalah tampilan pertama yang dilihat korban. Konteksnya halaman meny
 
 ![](image/head.png)
 
-# Referensi
+## Referensi
 [Challenge Link](https://blueteamlabs.online/home/challenge/phishing-analysis-f92ef500ce)
 
