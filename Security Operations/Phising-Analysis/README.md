@@ -20,7 +20,7 @@ Tercatat di header date, date adalah waktu penyerang mengirim email ke target.
 ![](image/date.png)
 
 **4. Originating IP:**
-IP ini diambil dari header 'Received:', yaitu server hosting yang mengirim email ke server surat. Itu IP server pengirim, bukan IP pelaku.
+IP ini diambil dari header 'Received:', yaitu server hosting yang mengirim email ke server surat atau bisa kita temukan di header X-Originating-IP. Itu IP server pengirim, bukan IP pelaku.
 
 ![](image/IP.png)
 
