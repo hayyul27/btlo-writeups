@@ -18,8 +18,6 @@ lalu file `.pcap` dibuka dengan Wireshark. Pendekatannya:
 1. Virtual Machine (Kali Linux)
 2. Wireshark
 
-![](image/wireshark.png)
-
 **1). IP mana yang bertanggung jawab untuk melakukan aktivitas pemindaian port?**
 
 Pada bagian ini kita ingin mencari IP yang melakukan aktivitas pemindaian port. Langkah yang kita akan kita lakukan di wireshark adalah buka bagian tab **Statistik --> Conversation -->**  setelah masuk di bagian conversation kita bisa klik tab **IPv4** untuk mengurutkan jumlah paket dan kita akan menemukan IP penyerang akan menjadi pengirim dengan jumlah paket SYN/TCP yang jauh lebih banyak dibandingkan dengan host/ip yang lain.
