@@ -1,2 +1,2 @@
-# Security Opeartions All Level - Blue Team Labs Online (Write-up)
+# Security Operations All Level - Blue Team Labs Online (Write-up)
  
